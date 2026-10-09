@@ -1,0 +1,1 @@
+{"dependencies":{"firebase-admin":"^13.0.0"},"description":"Generic CRUD API over Firebase Realtime Database (Vercel serverless)","name":"jeezy-playground-api","private":true,"version":"0.1.0"}
